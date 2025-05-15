@@ -7,17 +7,3 @@
 ![WhatsApp Image 2024-07-12 at 11 48 09_d0dbc188](https://github.com/user-attachments/assets/86771bc5-d49e-4885-b5a1-5212ad9cd09b)
 
 
-## License Agreement
-
-Copyright © 2025  
-All rights reserved. Maddi Rishi Dhaneswar
-
-This software and its associated documentation are proprietary and confidential.  
-Unauthorized use, reproduction, distribution, or modification of any part of this codebase is strictly prohibited without explicit written permission from the owner (Maddi Rishi Dhaneswar).
-
-This repository is shared for academic evaluation and publication purposes only.
-
-If you wish to collaborate, request access, or seek clarification, please contact:  
-maddi.rishi2468@gmail.com
-
-No license is granted by implication, estoppel, or otherwise.
