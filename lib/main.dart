@@ -6,7 +6,7 @@ void main() {
   runApp(MaterialApp(
     home: WhatsAppReader(),
   ));
-}
+} 
 
 class WhatsAppReader extends StatefulWidget {
   @override
